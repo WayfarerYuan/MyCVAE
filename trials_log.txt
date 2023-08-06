@@ -1,0 +1,154 @@
+Trial 1: 
+    Hidden Dim 1: 502
+    Hidden Dim 2: 109
+    Batch Size: 648
+    Epochs: 43
+    Initial LR: 0.0004951208836756914
+    Temperature: 1.0855440479832779
+    Final Temperature: 0.4627873928848787
+    Beta: 40.249269078056706
+    Final Loss: 36171.44140625
+--------------------------------------------------
+Trial 2: 
+    Hidden Dim 1: 460
+    Hidden Dim 2: 103
+    Batch Size: 128
+    Epochs: 102
+    Initial LR: 0.0007119633552633598
+    Temperature: 1.1243954350684175
+    Final Temperature: 0.44978251912591605
+    Beta: 0.36021916177499097
+    Final Loss: 184.8036346435547
+--------------------------------------------------
+Trial 3: 
+    Hidden Dim 1: 418
+    Hidden Dim 2: 98
+    Batch Size: 298
+    Epochs: 45
+    Initial LR: 0.006539568585445502
+    Temperature: 1.2297661949978684
+    Final Temperature: 0.14550479467013744
+    Beta: 50.278255755650264
+    Final Loss: 876.4163818359375
+--------------------------------------------------
+Trial 4: 
+    Hidden Dim 1: 153
+    Hidden Dim 2: 104
+    Batch Size: 414
+    Epochs: 89
+    Initial LR: 0.002359107195826951
+    Temperature: 1.1702229507648005
+    Final Temperature: 0.932521389267935
+    Beta: 12.474177318237606
+    Final Loss: 1247.208740234375
+--------------------------------------------------
+Trial 5: 
+    Hidden Dim 1: 397
+    Hidden Dim 2: 49
+    Batch Size: 58
+    Epochs: 67
+    Initial LR: 0.005698505034935365
+    Temperature: 1.1047874997024723
+    Final Temperature: 0.8865320208211237
+    Beta: 31.096617310835946
+    Final Loss: 173.02938842773438
+--------------------------------------------------
+Trial 6: 
+    Hidden Dim 1: 466
+    Hidden Dim 2: 68
+    Batch Size: 66
+    Epochs: 37
+    Initial LR: 0.0006032751868814325
+    Temperature: 1.924706378066747
+    Final Temperature: 0.5584516002101768
+    Beta: 81.3704469292423
+    Final Loss: 1657.05126953125
+--------------------------------------------------
+Trial 7: 
+    Hidden Dim 1: 257
+    Hidden Dim 2: 80
+    Batch Size: 523
+    Epochs: 80
+    Initial LR: 0.0005424120192921033
+    Temperature: 0.902962638522405
+    Final Temperature: 0.3102979093403931
+    Beta: 36.664441382635985
+    Final Loss: 32548.744140625
+--------------------------------------------------
+Trial 8: 
+    Hidden Dim 1: 175
+    Hidden Dim 2: 40
+    Batch Size: 614
+    Epochs: 85
+    Initial LR: 0.00016429298506079047
+    Temperature: 0.8575896364925677
+    Final Temperature: 0.504744544061529
+    Beta: 53.72069766048429
+    Final Loss: 55342.6328125
+--------------------------------------------------
+Trial 9: 
+    Hidden Dim 1: 194
+    Hidden Dim 2: 66
+    Batch Size: 732
+    Epochs: 80
+    Initial LR: 0.0027351511108959295
+    Temperature: 1.001335233658181
+    Final Temperature: 0.5426649969091076
+    Beta: 46.73676212588678
+    Final Loss: 9002.7890625
+--------------------------------------------------
+Trial 10: 
+    Hidden Dim 1: 336
+    Hidden Dim 2: 69
+    Batch Size: 914
+    Epochs: 43
+    Initial LR: 0.008262023219890943
+    Temperature: 1.2539781703749164
+    Final Temperature: 0.38148590931721893
+    Beta: 29.56186635773531
+    Final Loss: 1603.9234619140625
+--------------------------------------------------
+Trial 11: 
+    Hidden Dim 1: 341
+    Hidden Dim 2: 36
+    Batch Size: 286
+    Epochs: 122
+    Initial LR: 0.00971383353365805
+    Temperature: 0.6242548171813347
+    Final Temperature: 0.9745305954152271
+    Beta: 90.16606286136232
+    Final Loss: 170.5261688232422
+--------------------------------------------------
+Trial 12: 
+    Hidden Dim 1: 353
+    Hidden Dim 2: 34
+    Batch Size: 252
+    Epochs: 124
+    Initial LR: 0.009904000518606924
+    Temperature: 0.5244008124368355
+    Final Temperature: 0.9909850580701721
+    Beta: 96.68978673084396
+    Final Loss: 181.29788208007812
+--------------------------------------------------
+Trial 13: 
+    Hidden Dim 1: 389
+    Hidden Dim 2: 44
+    Batch Size: 35
+    Epochs: 62
+    Initial LR: 0.0038348761453702003
+    Temperature: 0.5186488213889388
+    Final Temperature: 0.8314120118497567
+    Beta: 68.61076772103397
+    Final Loss: 197.83306884765625
+--------------------------------------------------
+Trial 14: 
+    Hidden Dim 1: 287
+    Hidden Dim 2: 52
+    Batch Size: 242
+    Epochs: 128
+    Initial LR: 0.004499350007600813
+    Temperature: 0.7734326460752352
+    Final Temperature: 0.7907014755926781
+    Beta: 96.10762428987641
+    Final Loss: 270.0715637207031
+--------------------------------------------------
