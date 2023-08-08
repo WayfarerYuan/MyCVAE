@@ -427,3 +427,135 @@ Trial 25:
     Beta: 7.942808910319734
     Final Loss: 145.5823516845703
 --------------------------------------------------
+Trial 26: 
+    Hidden Dim 1: 432
+    Hidden Dim 2: 391
+    Batch Size: 101
+    Epochs: 429
+    Initial LR: 0.01898599673049171
+    Temperature: 1.1814704139855028
+    Final Temperature: 1.261359637648809
+    Beta: 22.187205222383376
+    Final Loss: 156.06117248535156
+--------------------------------------------------
+Trial 27: 
+    Hidden Dim 1: 275
+    Hidden Dim 2: 417
+    Batch Size: 88
+    Epochs: 327
+    Initial LR: 0.009885246609542542
+    Temperature: 1.5796551515231467
+    Final Temperature: 1.4928554180530698
+    Beta: 10.006539853395974
+    Final Loss: 131.4336395263672
+--------------------------------------------------
+Trial 28: 
+    Hidden Dim 1: 596
+    Hidden Dim 2: 474
+    Batch Size: 845
+    Epochs: 373
+    Initial LR: 0.002810333607883277
+    Temperature: 1.3944245748571154
+    Final Temperature: 1.1264635838736567
+    Beta: 19.13817306902663
+    Final Loss: 184.8954620361328
+--------------------------------------------------
+Trial 29: 
+    Hidden Dim 1: 402
+    Hidden Dim 2: 365
+    Batch Size: 224
+    Epochs: 418
+    Initial LR: 0.03788309963119135
+    Temperature: 1.485741614747214
+    Final Temperature: 1.3755605573554743
+    Beta: 0.972998021170991
+    Final Loss: 154.16921997070312
+--------------------------------------------------
+Trial 30: 
+    Hidden Dim 1: 773
+    Hidden Dim 2: 307
+    Batch Size: 341
+    Epochs: 221
+    Initial LR: 0.009436863902871635
+    Temperature: 1.7230334544808068
+    Final Temperature: 0.8199610798643063
+    Beta: 22.697781079122002
+    Final Loss: 167.1506805419922
+--------------------------------------------------
+Trial 31: 
+    Hidden Dim 1: 503
+    Hidden Dim 2: 511
+    Batch Size: 179
+    Epochs: 300
+    Initial LR: 0.017043664111779044
+    Temperature: 1.2920653218232294
+    Final Temperature: 1.2971299140021935
+    Beta: 28.498232072827264
+    Final Loss: 158.7208709716797
+--------------------------------------------------
+Trial 32: 
+    Hidden Dim 1: 459
+    Hidden Dim 2: 484
+    Batch Size: 45
+    Epochs: 349
+    Initial LR: 0.01249495560366071
+    Temperature: 1.3278613066181653
+    Final Temperature: 1.407987738830594
+    Beta: 0.06560777415902641
+    Final Loss: 102.23236846923828
+--------------------------------------------------
+Trial 33: 
+    Hidden Dim 1: 472
+    Hidden Dim 2: 459
+    Batch Size: 16
+    Epochs: 54
+    Initial LR: 0.015067622259087676
+    Temperature: 1.1611295606864658
+    Final Temperature: 1.411717465126683
+    Beta: 6.482899730107838
+    Final Loss: 169.50946044921875
+--------------------------------------------------
+Trial 34: 
+    Hidden Dim 1: 312
+    Hidden Dim 2: 483
+    Batch Size: 100
+    Epochs: 372
+    Initial LR: 0.0047834443499634085
+    Temperature: 1.4573616521408477
+    Final Temperature: 1.4880054317973561
+    Beta: 14.790225552118768
+    Final Loss: 126.23531341552734
+--------------------------------------------------
+Trial 35: 
+    Hidden Dim 1: 526
+    Hidden Dim 2: 421
+    Batch Size: 101
+    Epochs: 334
+    Initial LR: 0.012791171163315147
+    Temperature: 1.3326727270605705
+    Final Temperature: 1.3399404635451182
+    Beta: 5.984386970709314
+    Final Loss: 119.91710662841797
+--------------------------------------------------
+Trial 36: 
+    Hidden Dim 1: 1022
+    Hidden Dim 2: 352
+    Batch Size: 67
+    Epochs: 449
+    Initial LR: 0.022536740313324755
+    Temperature: 1.0565435904868425
+    Final Temperature: 1.4183639295897168
+    Beta: 14.8459017480325
+    Final Loss: 151.29476928710938
+--------------------------------------------------
+Trial 37: 
+    Hidden Dim 1: 849
+    Hidden Dim 2: 449
+    Batch Size: 184
+    Epochs: 402
+    Initial LR: 0.006976881056648252
+    Temperature: 1.5639938525023143
+    Final Temperature: 1.221853287279011
+    Beta: 5.49088446081929
+    Final Loss: 122.30917358398438
+--------------------------------------------------
